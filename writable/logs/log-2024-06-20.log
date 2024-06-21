@@ -1,0 +1,394 @@
+INFO - 2024-06-20 11:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 11:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 11:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 11:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 11:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 11:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 11:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 11:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 11:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 11:59:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-20 12:05:13 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/index.php on line 33.
+ 1 APPPATH/Views/emprestimo/index.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:05:21 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/index.php on line 33.
+ 1 APPPATH/Views/emprestimo/index.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:05:23 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/index.php on line 33.
+ 1 APPPATH/Views/emprestimo/index.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:05:25 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/index.php on line 33.
+ 1 APPPATH/Views/emprestimo/index.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:06:46 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/index.php on line 33.
+ 1 APPPATH/Views/emprestimo/index.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:06:48 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/index.php on line 33.
+ 1 APPPATH/Views/emprestimo/index.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:06:49 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/index.php on line 33.
+ 1 APPPATH/Views/emprestimo/index.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:08:24 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/index.php on line 42.
+ 1 APPPATH/Views/emprestimo/index.php(42): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:09:15 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/index.php on line 36.
+ 1 APPPATH/Views/emprestimo/index.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:09:47 --> ErrorException: Undefined array key "prazo"
+in APPPATH/Views/emprestimo/index.php on line 37.
+ 1 APPPATH/Views/emprestimo/index.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:09:49 --> ErrorException: Undefined array key "prazo"
+in APPPATH/Views/emprestimo/index.php on line 37.
+ 1 APPPATH/Views/emprestimo/index.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+INFO - 2024-06-20 12:15:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-20 12:29:14 --> ParseError: syntax error, unexpected token ";", expecting "]"
+in APPPATH/Views/emprestimo/index.php on line 117.
+ 1 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Emprestimo.php(37): view()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:31:12 --> ErrorException: Undefined array key "id_obra"
+in APPPATH/Views/emprestimo/index.php on line 118.
+ 1 APPPATH/Views/emprestimo/index.php(118): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 12:31:21 --> ErrorException: Undefined array key "id_obra"
+in APPPATH/Views/emprestimo/index.php on line 118.
+ 1 APPPATH/Views/emprestimo/index.php(118): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/index.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+INFO - 2024-06-20 12:32:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:35:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:37:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 12:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-20 13:01:45 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/edit.php on line 47.
+ 1 APPPATH/Views/emprestimo/edit.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(59): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 13:01:50 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/edit.php on line 47.
+ 1 APPPATH/Views/emprestimo/edit.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(59): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 13:01:52 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/edit.php on line 47.
+ 1 APPPATH/Views/emprestimo/edit.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(59): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 13:02:41 --> ErrorException: Undefined variable $obras
+in APPPATH/Views/emprestimo/edit.php on line 48.
+ 1 APPPATH/Views/emprestimo/edit.php(48): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(59): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 13:02:54 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/edit.php on line 47.
+ 1 APPPATH/Views/emprestimo/edit.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(59): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 13:03:24 --> ErrorException: Undefined array key 1
+in APPPATH/Views/emprestimo/edit.php on line 47.
+ 1 APPPATH/Views/emprestimo/edit.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/bibliotecaprincipal1/app/Views/emprestimo/edit.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Emprestimo.php(59): view()
+ 6 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Emprestimo->editar()
+ 7 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+INFO - 2024-06-20 13:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-20 13:31:37 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`)) in /opt/lampp/htdocs/bibliotecaprincipal1/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /opt/lampp/htdocs/bibliotecaprincipal1/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /opt/lampp/htdocs/bibliotecaprincipal1/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /opt/lampp/htdocs/bibliotecaprincipal1/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /opt/lampp/htdocs/bibliotecaprincipal1/system/Database/BaseBuilder.php(2787): CodeIgniter\Database\BaseConnection->query()
+#4 /opt/lampp/htdocs/bibliotecaprincipal1/system/Model.php(453): CodeIgniter\Database\BaseBuilder->delete()
+#5 /opt/lampp/htdocs/bibliotecaprincipal1/system/BaseModel.php(1117): CodeIgniter\Model->doDelete()
+#6 /opt/lampp/htdocs/bibliotecaprincipal1/app/Controllers/Livro.php(53): CodeIgniter\BaseModel->delete()
+#7 /opt/lampp/htdocs/bibliotecaprincipal1/system/CodeIgniter.php(941): App\Controllers\Livro->excluir()
+#8 /opt/lampp/htdocs/bibliotecaprincipal1/system/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+#9 /opt/lampp/htdocs/bibliotecaprincipal1/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+#10 /opt/lampp/htdocs/bibliotecaprincipal1/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#11 /opt/lampp/htdocs/bibliotecaprincipal1/system/Commands/Server/rewrite.php(47): require_once('...')
+#12 {main}
+CRITICAL - 2024-06-20 13:31:37 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 647.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2787): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(453): CodeIgniter\Database\BaseBuilder->delete()
+ 3 SYSTEMPATH/BaseModel.php(1117): CodeIgniter\Model->doDelete()
+ 4 APPPATH/Controllers/Livro.php(53): CodeIgniter\BaseModel->delete()
+ 5 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Livro->excluir()
+ 6 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 13:31:37 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`))
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 311.
+ 1 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2787): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(453): CodeIgniter\Database\BaseBuilder->delete()
+ 5 SYSTEMPATH/BaseModel.php(1117): CodeIgniter\Model->doDelete()
+ 6 APPPATH/Controllers/Livro.php(53): CodeIgniter\BaseModel->delete()
+ 7 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Livro->excluir()
+ 8 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 13:31:37 --> [Caused by] mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`))
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 306.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(306): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2787): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(453): CodeIgniter\Database\BaseBuilder->delete()
+ 6 SYSTEMPATH/BaseModel.php(1117): CodeIgniter\Model->doDelete()
+ 7 APPPATH/Controllers/Livro.php(53): CodeIgniter\BaseModel->delete()
+ 8 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Livro->excluir()
+ 9 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+ERROR - 2024-06-20 13:31:44 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`)) in /opt/lampp/htdocs/bibliotecaprincipal1/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /opt/lampp/htdocs/bibliotecaprincipal1/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /opt/lampp/htdocs/bibliotecaprincipal1/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /opt/lampp/htdocs/bibliotecaprincipal1/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /opt/lampp/htdocs/bibliotecaprincipal1/system/Database/BaseBuilder.php(2787): CodeIgniter\Database\BaseConnection->query()
+#4 /opt/lampp/htdocs/bibliotecaprincipal1/system/Model.php(453): CodeIgniter\Database\BaseBuilder->delete()
+#5 /opt/lampp/htdocs/bibliotecaprincipal1/system/BaseModel.php(1117): CodeIgniter\Model->doDelete()
+#6 /opt/lampp/htdocs/bibliotecaprincipal1/app/Controllers/Livro.php(53): CodeIgniter\BaseModel->delete()
+#7 /opt/lampp/htdocs/bibliotecaprincipal1/system/CodeIgniter.php(941): App\Controllers\Livro->excluir()
+#8 /opt/lampp/htdocs/bibliotecaprincipal1/system/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+#9 /opt/lampp/htdocs/bibliotecaprincipal1/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+#10 /opt/lampp/htdocs/bibliotecaprincipal1/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#11 /opt/lampp/htdocs/bibliotecaprincipal1/system/Commands/Server/rewrite.php(47): require_once('...')
+#12 {main}
+CRITICAL - 2024-06-20 13:31:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 647.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2787): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(453): CodeIgniter\Database\BaseBuilder->delete()
+ 3 SYSTEMPATH/BaseModel.php(1117): CodeIgniter\Model->doDelete()
+ 4 APPPATH/Controllers/Livro.php(53): CodeIgniter\BaseModel->delete()
+ 5 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Livro->excluir()
+ 6 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 13:31:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`))
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 311.
+ 1 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2787): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(453): CodeIgniter\Database\BaseBuilder->delete()
+ 5 SYSTEMPATH/BaseModel.php(1117): CodeIgniter\Model->doDelete()
+ 6 APPPATH/Controllers/Livro.php(53): CodeIgniter\BaseModel->delete()
+ 7 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Livro->excluir()
+ 8 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+CRITICAL - 2024-06-20 13:31:44 --> [Caused by] mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`))
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 306.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(306): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2787): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(453): CodeIgniter\Database\BaseBuilder->delete()
+ 6 SYSTEMPATH/BaseModel.php(1117): CodeIgniter\Model->doDelete()
+ 7 APPPATH/Controllers/Livro.php(53): CodeIgniter\BaseModel->delete()
+ 8 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\Livro->excluir()
+ 9 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/bibliotecaprincipal1/public/index.php')
+INFO - 2024-06-20 13:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-20 13:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

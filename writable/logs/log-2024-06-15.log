@@ -1,0 +1,1226 @@
+INFO - 2024-06-15 12:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:06:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:07:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:09:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:10:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:12:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:13:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:15:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:15:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:16:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:16:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:17:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:17:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:18:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:18:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:18:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:18:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:18:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:18:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:18:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:19:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:19:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:19:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:19:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:19:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:22:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:22:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:23:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:24:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:24:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:24:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:25:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:25:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:26:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:26:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:27:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-15 12:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:27:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 12:27:46 --> ErrorException: Undefined array key 1
+in APPPATH\Views\emprestimo\index.php on line 30.
+ 1 APPPATH\Views\emprestimo\index.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 30)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+ERROR - 2024-06-15 12:28:43 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`)) in C:\xampp\htdocs\ci4_biblioteca\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\ci4_biblioteca\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `em...', 0)
+#1 C:\xampp\htdocs\ci4_biblioteca\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `em...')
+#2 C:\xampp\htdocs\ci4_biblioteca\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `em...')
+#3 C:\xampp\htdocs\ci4_biblioteca\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `em...', Array, false)
+#4 C:\xampp\htdocs\ci4_biblioteca\system\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4_biblioteca\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4_biblioteca\system\Model.php(744): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\ci4_biblioteca\system\BaseModel.php(713): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\ci4_biblioteca\app\Controllers\Emprestimo.php(39): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\ci4_biblioteca\system\CodeIgniter.php(941): App\Controllers\Emprestimo->cadastrar()
+#10 C:\xampp\htdocs\ci4_biblioteca\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+#11 C:\xampp\htdocs\ci4_biblioteca\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4_biblioteca\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ci4_biblioteca\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-06-15 12:28:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`))
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `emprestimo` (`data_inicio`, `data_fim`, `data_prazo`, `id_livro`, `id_aluno`, `id_usuario`) VALUES (:data_inicio:, :data_fim:, :data_prazo:, :id_livro:, :id_aluno:, :id_usuario:)', [...], false)
+ 2 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Emprestimo.php(39): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->cadastrar()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 12:28:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `emprestimo` (`data_inicio`, `data_fim`, `data_prazo`, `id_livro`, `id_aluno`, `id_usuario`) VALUES (\'\', \'\', \'\', \'Selecione um Livro\', \'Selecione um Aluno\', \'Selecione um Usuario\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `emprestimo` (`data_inicio`, `data_fim`, `data_prazo`, `id_livro`, `id_aluno`, `id_usuario`) VALUES (\'\', \'\', \'\', \'Selecione um Livro\', \'Selecione um Aluno\', \'Selecione um Usuario\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `emprestimo` (`data_inicio`, `data_fim`, `data_prazo`, `id_livro`, `id_aluno`, `id_usuario`) VALUES (:data_inicio:, :data_fim:, :data_prazo:, :id_livro:, :id_aluno:, :id_usuario:)', [...], false)
+ 4 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Emprestimo.php(39): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->cadastrar()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 12:28:43 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`biblioteca`.`emprestimo`, CONSTRAINT `emprestimo_ibfk_1` FOREIGN KEY (`id_livro`) REFERENCES `livro` (`id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `emprestimo` (`data_inicio`, `data_fim`, `data_prazo`, `id_livro`, `id_aluno`, `id_usuario`) VALUES (\'\', \'\', \'\', \'Selecione um Livro\', \'Selecione um Aluno\', \'Selecione um Usuario\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `emprestimo` (`data_inicio`, `data_fim`, `data_prazo`, `id_livro`, `id_aluno`, `id_usuario`) VALUES (\'\', \'\', \'\', \'Selecione um Livro\', \'Selecione um Aluno\', \'Selecione um Usuario\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `emprestimo` (`data_inicio`, `data_fim`, `data_prazo`, `id_livro`, `id_aluno`, `id_usuario`) VALUES (\'\', \'\', \'\', \'Selecione um Livro\', \'Selecione um Aluno\', \'Selecione um Usuario\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `emprestimo` (`data_inicio`, `data_fim`, `data_prazo`, `id_livro`, `id_aluno`, `id_usuario`) VALUES (:data_inicio:, :data_fim:, :data_prazo:, :id_livro:, :id_aluno:, :id_usuario:)', [...], false)
+ 5 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Emprestimo.php(39): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->cadastrar()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 12:44:12 --> ErrorException: Undefined variable $usuarioSelecionado
+in APPPATH\Views\emprestimo\index.php on line 118.
+ 1 APPPATH\Views\emprestimo\index.php(118): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuarioSelecionado', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 118)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:50:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:50:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:51:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:51:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:51:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:51:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+INFO - 2024-06-15 12:51:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-15 12:51:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$session is deprecated in APPPATH\Controllers\Login.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:01:33 --> TypeError: anchor(): Argument #2 ($title) must be of type string, array given, called in C:\xampp\htdocs\ci4_biblioteca\app\Views\emprestimo\index.php on line 7
+in SYSTEMPATH\Helpers\url_helper.php on line 148.
+ 1 APPPATH\Views\emprestimo\index.php(7): anchor('Emprestimo/editar/', [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:03:07 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(69): view('devolução/index.php')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:03:55 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:06:58 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 8.
+ 1 APPPATH\Views\emprestimo\index.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:06:59 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 8.
+ 1 APPPATH\Views\emprestimo\index.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:06:59 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 8.
+ 1 APPPATH\Views\emprestimo\index.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:07:00 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 8.
+ 1 APPPATH\Views\emprestimo\index.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:07:00 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 8.
+ 1 APPPATH\Views\emprestimo\index.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:07:00 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 8.
+ 1 APPPATH\Views\emprestimo\index.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:07:00 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 8.
+ 1 APPPATH\Views\emprestimo\index.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:07:00 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 8.
+ 1 APPPATH\Views\emprestimo\index.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:07:00 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 8.
+ 1 APPPATH\Views\emprestimo\index.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:07:01 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\index.php on line 8.
+ 1 APPPATH\Views\emprestimo\index.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:08:21 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(69): view('devolução/index.php')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:08:29 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(69): view('devolução/index.php')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:12:22 --> ErrorException: Undefined variable $Emprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:12:37 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:12:37 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:12:37 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:14:11 --> ErrorException: Undefined variable $Listaemprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Listaemprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:14:13 --> ErrorException: Undefined variable $Listaemprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Listaemprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:14:13 --> ErrorException: Undefined variable $Listaemprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Listaemprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:14:13 --> ErrorException: Undefined variable $Listaemprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Listaemprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:14:14 --> ErrorException: Undefined variable $Listaemprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Listaemprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:14:14 --> ErrorException: Undefined variable $Listaemprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Listaemprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:14:14 --> ErrorException: Undefined variable $Listaemprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Listaemprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:14:14 --> ErrorException: Undefined variable $Listaemprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Listaemprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:14:14 --> ErrorException: Undefined variable $Listaemprestimo
+in APPPATH\Views\emprestimo\index.php on line 7.
+ 1 APPPATH\Views\emprestimo\index.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Listaemprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:14:34 --> ErrorException: Undefined array key 1
+in APPPATH\Views\emprestimo\index.php on line 35.
+ 1 APPPATH\Views\emprestimo\index.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php', 35)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(33): view('emprestimo/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:16:21 --> ErrorException: Undefined variable $listaLivro
+in APPPATH\Views\devolução\index.php on line 35.
+ 1 APPPATH\Views\devolução\index.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $listaLivro', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 35)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(70): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:17:41 --> ErrorException: Undefined variable $livro
+in APPPATH\Controllers\Emprestimo.php on line 70.
+ 1 APPPATH\Controllers\Emprestimo.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $livro', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Controllers\\Emprestimo.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:09 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:10 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:10 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:11 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:11 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:11 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:11 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:12 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:12 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:12 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:12 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:12 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:13 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:13 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:13 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:13 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:13 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:14 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:14 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:14 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:14 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:14 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:15 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:15 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:15 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:15 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:16 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:16 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:16 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:16 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:16 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:16 --> ErrorException: Undefined variable $emprestimo
+in APPPATH\Views\devolução\index.php on line 3.
+ 1 APPPATH\Views\devolução\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $emprestimo', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:18:32 --> ErrorException: Undefined variable $listaAluno
+in APPPATH\Views\devolução\index.php on line 39.
+ 1 APPPATH\Views\devolução\index.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $listaAluno', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php', 39)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\devolução\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('devolução/index.php', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(71): view('devolução/index.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->devolucao('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:24:50 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\edit.php on line 5.
+ 1 APPPATH\Views\emprestimo\edit.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\edit.php', 5)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/edit', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(50): view('emprestimo/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->editar('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
+CRITICAL - 2024-06-15 13:25:20 --> ErrorException: Undefined variable $em
+in APPPATH\Views\emprestimo\edit.php on line 14.
+ 1 APPPATH\Views\emprestimo\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $em', 'C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\edit.php', 14)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ci4_biblioteca\\app\\Views\\emprestimo\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('emprestimo/edit', [], true)
+ 5 APPPATH\Controllers\Emprestimo.php(50): view('emprestimo/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Emprestimo->editar('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Emprestimo))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ci4_biblioteca\\public\\index.php')
